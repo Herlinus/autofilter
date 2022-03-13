@@ -6,6 +6,6 @@ setup(
     description="A simple expression parser",
     author="Ganneval Xavier",
     author_email="toto@titi.fr",
-    packages=["autofilter"],
+    packages=["autofilter", "autofilter.criterion"],
     license="Apache 2.0",
 )
